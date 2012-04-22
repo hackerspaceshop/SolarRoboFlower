@@ -1,6 +1,5 @@
- // Dirty code by Daniel Schatzmayr @2009
-// 30.01.2012
-//#001-08.02.2012
+// Dirty code by Daniel Schatzmayr @2009
+// CC 3.0 AT-SA-NC
 
 #if _MSC_VER 
 #include "VSPDE.h"

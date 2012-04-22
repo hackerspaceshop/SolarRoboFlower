@@ -2,6 +2,9 @@
 /// This an example code to show how few code is needed to operate the flower!
 /// It contains no calibration and offsets for servo and sensors (probably you want to hard code them)!
 /// The Pulse with should also be set correctly (I cheat them now and drive the servo up to 190Degree of 180)
+// CC 3.0 AT-SA-NC
+
+
 
 #include <SoftwareServo.h>
 
